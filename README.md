@@ -1,11 +1,12 @@
-### About Me 𓁿
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ummmmmmmmmmm...;???????????;it+is+about+me+𓁿;i+just+need+to+pooping&font=Fira%20Code&color=%2399FF00&center=true&width=280&height=50">
+
 
 ```yaml
 name: Dernorayytor
 location: 127.0.0.1
 role: Homosapiens
 currently_learning: [EVERYTHING!]
-hobbies: [Pooping&SleepLover]
 ```
 <br clear="right"/>
 <!--
