@@ -1,6 +1,15 @@
-## Hi 👋
+### About Me 𓁿
 
+```yaml
+name: Dernorayytor
+location: 127.0.0.1
+role: Homosapiens
+currently_learning: [EVERYTHING!]
+hobbies: [Pooping&SleepLover]
+```
+<br clear="right"/>
 <!--
+##Hi 👋 
 **Dernorayytor/Dernorayytor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
